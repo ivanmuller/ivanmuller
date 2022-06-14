@@ -10,30 +10,30 @@ I live in Rosario, Argentina.
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=ivanmuller&layout=compact&card_width=360&exclude_repo=inCinema&langs_count=8" alt="Ivanmuller's Top Languages" width="420">
 
 
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="HTML5">HTML5</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" alt="CSS3">CSS3</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" alt="Javascript">Javascript</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" alt="React">React</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg" alt="Typescript">Typescript</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="HTML5"> HTML5</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" alt="CSS3"> CSS3</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" alt="Javascript"> Javascript</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" alt="React"> React</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg" alt="Typescript"> Typescript</code>
 
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg" alt="VS Code">VS Code</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" alt="GIT">GIT</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vercel.svg" alt="Vercel">Vercel</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nextdotjs.svg" alt="Next.js">Next.js</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/prisma.svg" alt="Prisma ORM">Prisma</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg" alt="VS Code"> VS Code</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" alt="GIT"> GIT</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vercel.svg" alt="Vercel"> Vercel</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nextdotjs.svg" alt="Next.js"> Next.js</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/prisma.svg" alt="Prisma ORM"> Prisma</code>
 
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/planetscale.svg" alt="Planetscale">Planetscale</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/styledcomponents.svg" alt="Styled Components">Styled Components</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vite.svg" alt="Vite">Vite</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cssmodules.svg" alt="CSS Modules">CSS Modules</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postcss.svg" alt="Post CSS">Post CSS</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/planetscale.svg" alt="Planetscale"> Planetscale</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/styledcomponents.svg" alt="Styled Components"> Styled Components</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vite.svg" alt="Vite"> Vite</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cssmodules.svg" alt="CSS Modules"> CSS Modules</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postcss.svg" alt="Post CSS"> Post CSS</code>
 
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/php.svg" alt="PHP">PHP</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/wordpress.svg" alt="Wordpress">Wordpress</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" alt="Tailwind">Tailwind</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/materialdesign.svg" alt="Material Design">Material Design</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/chakraui.svg" alt="Chakra UI">Chakra UI</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jquery.svg" alt="jQuery">jQuery</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/php.svg" alt="PHP"> PHP</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/wordpress.svg" alt="Wordpress"> Wordpress</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" alt="Tailwind"> Tailwind</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/materialdesign.svg" alt="Material Design"> Material Design</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/chakraui.svg" alt="Chakra UI"> Chakra UI</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jquery.svg" alt="jQuery"> jQuery</code>
 
 
 ### Some code I'd like to show
