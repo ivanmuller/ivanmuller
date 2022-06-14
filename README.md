@@ -5,6 +5,9 @@ I'm from Rosario, Argentina.
 - 🌱 I’m currently learning Advanced Javascript and Cypress
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/ivanmuller/)
 
+### What I use
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmuller&exclude_repo=inCinema&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Some code I'd like to show
 <table width="100%">
 <tr>
@@ -38,6 +41,7 @@ A checkout page with some discounts rules based on item amount
 Live Movie / Events panel with React
 
 [![screenshot](http://ivanmuller.me/images/inCinema4.gif)](https://github.com/ivanmuller/inCinema#readme)
-
+  
 </td>
 </tr>
+</table>
