@@ -1,6 +1,6 @@
 ## Hi fellows 👋
 I'm a frontend developer with more than 10 years of experience. 
-I'm from Rosario, Argentina.
+I live in Rosario, Argentina.
 - 🔭 I’m currently working in [Avature](https://www.avature.net/) as a Developer Referent
 - 🌱 I’m currently learning Advanced Javascript and Cypress
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/ivanmuller/)
