@@ -7,7 +7,7 @@ I live in Rosario, Argentina.
 
 ### What I use
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=ivanmuller&layout=compact&card_width=360&exclude_repo=inCinema&langs_count=8" alt="Ivanmuller's Top Languages" width="420">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmuller&exclude_repo=inCinema&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="HTML5"> HTML5</code>
