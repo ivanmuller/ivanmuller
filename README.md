@@ -7,7 +7,7 @@ I live in Rosario, Argentina.
 
 ### What I use
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=ivanmuller&layout=compact&card_width=360&exclude_repo=inCinema&langs_count=8" alt="Ivanmuller's Top Languages" align="left" width="420">
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=ivanmuller&layout=compact&card_width=360&exclude_repo=inCinema&langs_count=8" alt="Ivanmuller's Top Languages" width="420">
 
 
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="HTML5">HTML5</code>
@@ -26,13 +26,12 @@ I live in Rosario, Argentina.
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/styledcomponents.svg" alt="Styled Components">Styled Components</code>
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vite.svg" alt="Vite">Vite</code>
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cssmodules.svg" alt="CSS Modules">CSS Modules</code>
-
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postcss.svg" alt="Post CSS">Post CSS</code>
+
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/php.svg" alt="PHP">PHP</code>
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/wordpress.svg" alt="Wordpress">Wordpress</code>
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" alt="Tailwind">Tailwind</code>
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/materialdesign.svg" alt="Material Design">Material Design</code>
-
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/chakraui.svg" alt="Chakra UI">Chakra UI</code>
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jquery.svg" alt="jQuery">jQuery</code>
 
