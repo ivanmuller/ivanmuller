@@ -1,6 +1,5 @@
 ## Hi fellows 👋
-I'm a frontend developer with more than 10 years of experience. 
-I live in Rosario, Argentina.
+I'm a frontend developer with more than 10 years of experience.
 - 🔭 I’m currently working at [Avature](https://www.avature.net/) as a Developer Referent (Former Team Lead)
 - 🌱 I’m currently learning Advanced Javascript and Cypress
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/ivanmuller/)
@@ -31,9 +30,8 @@ I live in Rosario, Argentina.
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sass.svg" alt="Sass"> SASS</code>
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/php.svg" alt="PHP"> PHP</code>
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/wordpress.svg" alt="Wordpress"> Wordpress</code>
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" alt="Tailwind"> Tailwind</code>
 
-<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/materialdesign.svg" alt="Material Design"> Material Design</code>
+<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" alt="Tailwind"> Tailwind</code>
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/chakraui.svg" alt="Chakra UI"> Chakra UI</code>
 <code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jquery.svg" alt="jQuery"> jQuery</code>
 
