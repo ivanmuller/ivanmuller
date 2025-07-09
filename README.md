@@ -1,7 +1,6 @@
 ## Hi fellows 👋
 I'm a frontend developer with more than 10 years of experience.
 - 🔭 I’m currently working at [Avature](https://www.avature.net/) as a Developer Referent (Former Team Lead)
-- 🌱 I’m currently learning Cypress.
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/ivanmuller/)
 
 ### What I use
